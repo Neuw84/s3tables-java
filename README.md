@@ -5,4 +5,4 @@ Companion Medium [post](https://medium.com/@neuw84/using-s3-tables-with-iceberg-
 
 ## License
 
-This conde is licensed under the Apache License. See the LICENSE file.
+This code is licensed under the Apache License. See the LICENSE file.
